@@ -1,6 +1,6 @@
 # Sales Data Analysis :-
 ### The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc of 12 months.
-####     --> We are going to analyse this data using pandas and matplotlib
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***We are going to analyse this data using pandas and matplotlib...***
 
 ##   Analysis 1: What was the best month for sales? How much was earned that month?
 ![highest_month_sale](https://user-images.githubusercontent.com/48179170/134633324-e16e68ae-efbc-4eda-9958-6cce9d041b3d.png)
